@@ -22,6 +22,7 @@
   <br/><br/>
 
   <!-- Social Links -->
+  <a href="https://portfolio-khaleek-ahmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/khaleek-ahmad-1b1922337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:elahi1234e@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/khaleek696"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -43,6 +44,7 @@
       <h3>👨‍💻 Who am I?</h3>
       <p>I'm a <b>Cloud & DevOps Engineer</b> from India 🇮🇳 who is passionate about building scalable cloud architectures and automating everything.</p>
       <ul>
+        <li>🌐 Explore my <b><a href="https://portfolio-khaleek-ahmad.vercel.app/">Portfolio Website</a></b></li>
         <li>🌱 Deep diving into <b>AWS (EC2, S3, IAM, Lambda, VPC)</b> & <b>GCP</b></li>
         <li>🐳 Containerizing apps with <b>Docker</b> & exploring <b>Kubernetes</b></li>
         <li>🔄 Building automated <b>CI/CD Pipelines</b> for rapid deployment</li>
@@ -84,7 +86,7 @@
       </td>
       <td align="center" width="96">
          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="56" height="56" alt="Java" />
-        <br><b>C</b>
+        <br><b>Java</b>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="56" height="56" />
@@ -121,10 +123,6 @@
         <br><b>Kubernetes</b>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="56" height="56" alt="Git" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
         <br><b>GitLab</b>
       </td>
@@ -144,12 +142,12 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br><b>Tailwind</b>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
         <br><b>Bootstrap</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
         <br><b>FastAPI</b>
@@ -157,10 +155,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
         <br><b>Flask</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="56" height="56" alt="Java" />
-        <br><b>TypeScript</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
@@ -243,9 +237,7 @@
 
 <br/>
 
-<div align="center">
 <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Dino" width="100%" />
-</div>
 
 <br/>
 
@@ -260,7 +252,7 @@
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/khaleek696-art">Khaleek Ahmad</a> | Hosted on GitHub</sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/khaleek696-art">Khaleek Ahmad</a> | <a href="https://portfolio-khaleek-ahmad.vercel.app/">🌐 Visit Portfolio</a></sub>
 </div>
 
 <!-- Animated Waving Footer -->
